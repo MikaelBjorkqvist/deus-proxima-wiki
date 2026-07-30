@@ -7,11 +7,13 @@ visibility: public-lore
 
 # The Imperium
 
-The **Imperium** is the largest centralized power in the Astraeus Reach. It is a hereditary, religious, and deeply hierarchical civilization ruled in the Emperor's name.
+The **Imperium** is the formal and historical name of the largest centralized power in the Astraeus Reach. It is a hereditary, religious, and deeply hierarchical civilization ruled in the Emperor's name.
+
+The **Holy Mandate** is the post-Wail religious doctrine and sacred mission through which the Imperium interprets its survival, the beacon, the Passage, and its claim to rule. In religious, ideological, and informal speech, the Imperium is often called simply **the Mandate**. The two names overlap in common usage, but they are not identical: the Imperium is the state and civilization; the Mandate is the sacred purpose that now defines it.
 
 Imperial identity is enforced through three intertwined foundations:
 
-- **religion**, which teaches that the Imperium preserved the true mandate of the Light;
+- **religion**, which teaches that the Imperium survived to carry out the Holy Mandate;
 - **law**, which regulates citizenship, migration, marriage, worship, ownership, and foreign influence;
 - **ancestry**, which privileges recognized Passage bloodlines and hereditary rank.
 
@@ -21,4 +23,4 @@ The Imperium is culturally xenophobic. It may trade, negotiate, or temporarily c
 
 The Imperium contains multiple powerful internal agencies and subfactions, including religious, military, noble, and administrative institutions. Their exact names and structures remain open.
 
-> **Some are born to preserve the mandate. Others are permitted to serve it.**
+> **The Imperium endured. The Mandate gave that endurance purpose.**
