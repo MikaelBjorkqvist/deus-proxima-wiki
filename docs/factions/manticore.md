@@ -7,6 +7,8 @@ visibility: public-lore
 
 # MantiCORE
 
+![MantiCORE official wordmark](../assets/logos/manticore-wordmark.png)
+
 **MantiCORE** is the large military and interstellar transport force that survived the Great Consortium's Passage alliance.
 
 It is deeply entangled in megacorporate politics but is not a neutral public institution or ideological guardian. MantiCORE serves contracts, money, continuity of trade, and the continued operation of interstellar travel for the Consortium powers.
@@ -19,3 +21,13 @@ It is deeply entangled in megacorporate politics but is not a neutral public ins
 The Imperium possesses its own rare interstellar-capable vessels. MantiCORE does not monopolize all travel in the Reach.
 
 The great carrier vessels of both civilizations are rare, enormous presences—like **great whales moving through the dark sky**.
+
+## Visual identity
+
+The canonical MantiCORE master logo is a standalone wordmark:
+
+- The name is written exactly as **MantiCORE**, with lowercase **anti** and uppercase **M**, **CORE**.
+- The lettering is heavy, wide, futuristic, and geometric.
+- Curved forms are replaced by sharp or faceted angles, including the lowercase **a** and **n**.
+- The logo is monochrome silver-white with no orange or other accent color.
+- No separate emblem is part of the locked master logo.
