@@ -7,7 +7,7 @@ visibility: public-lore
 
 # Kurokai
 
-![Kurokai official emblem](../assets/logos/kurokai-emblem.png)
+![Kurokai official logo](../assets/logos/kurokai-logo.png)
 
 **Kurokai** is both the name of a ruling family and the megacorporate state identified with that dynasty.
 
@@ -24,11 +24,12 @@ Its public image is refined, stable, sophisticated, and responsible. Beneath tha
 
 ## Visual identity
 
-The canonical Kurokai master emblem is the angular oni mask:
+The canonical Kurokai master logo is a minimalist corporate-house lockup:
 
-- a symmetrical black and dark-charcoal oni face;
-- long upward horns and narrow red eyes;
-- a red diamond centered on the forehead;
-- a small red diamond beneath the jaw;
-- flat geometric construction with sharp negative space;
-- no wordmark or surrounding crest in the locked master emblem.
+- three hollow black hexagons arranged as a compact triangular mark;
+- a dominant red diamond joining the three forms;
+- a widely spaced uppercase **KUROKAI** wordmark;
+- flat geometric construction with strong negative space;
+- black, white, and deep red as the complete master palette.
+
+The SVG is the resolution-independent master. The PNG is the standard raster version.

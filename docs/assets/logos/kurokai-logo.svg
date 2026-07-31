@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" role="img" aria-labelledby="title desc">
+  <title id="title">Kurokai logo</title>
+  <desc id="desc">Three hollow black hexagons joined by a red diamond above the Kurokai wordmark.</desc>
+  <rect width="1200" height="1200" fill="#ffffff"/>
+
+  <g fill="#151719" fill-rule="evenodd">
+    <path d="M600 125 717 193v134l-117 68-117-68V193Zm0 62-63 37v72l63 37 63-37v-72Z"/>
+    <path d="M440 370 557 438v134l-117 68-117-68V438Zm0 62-63 37v72l63 37 63-37v-72Z"/>
+    <path d="M760 370 877 438v134l-117 68-117-68V438Zm0 62-63 37v72l63 37 63-37v-72Z"/>
+  </g>
+
+  <path d="M600 399 640 439 600 479 560 439Z" fill="#b5121b"/>
+
+  <g fill="#151719" transform="translate(163 815)">
+    <path d="M0 0h16v36L58 0h24L32 43l52 47H59L16 51v39H0Z"/>
+    <path d="M130 0h16v68l12 12h24l12-12V0h16v74l-22 22h-36l-22-22Z"/>
+    <path fill-rule="evenodd" d="M260 0h55l25 22v18l-18 16h-27l49 34h-26l-42-31v31h-16Zm16 14v29h38l10-9v-9l-10-11Z"/>
+    <path fill-rule="evenodd" d="M390 18 408 0h44l18 18v54l-18 18h-44l-18-18Zm16 6v42l8 8h32l8-8V24l-8-8h-32Z"/>
+    <path d="M520 0h16v36L578 0h24l-50 43 52 47h-25l-43-39v39h-16Z"/>
+    <path fill-rule="evenodd" d="m650 90 31-90h18l31 90h-18l-8-24h-28l-8 24Zm31-39h18l-9-28Z"/>
+    <path d="M780 0h70v15h-26v60h26v15h-70V75h26V15h-26Z"/>
+  </g>
+</svg>
